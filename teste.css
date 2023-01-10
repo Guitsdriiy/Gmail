@@ -147,3 +147,27 @@ span{
     outline: none !important;
     border-color: #096df0;
 }
+
+.texto{
+    width: 82%;
+    font-size: 14px;
+    color: #888888;
+    background-color: #096df000;
+    justify-content: center; 
+    align-items: center;
+    display: flex !important;
+    text-align: justify;
+    float: left;
+}
+.codigo_p{
+    width: 9%;
+    background-color: #f0094300;
+    float: right;
+    color: #ffffff;
+}
+.codigo_m{
+    width: 9%;
+    background-color: #f09b0900;
+    float: left;
+    color: #ffffff;
+}
