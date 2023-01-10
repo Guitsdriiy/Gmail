@@ -160,14 +160,41 @@ span{
     float: left;
 }
 .codigo_p{
-    width: 9%;
+    width: 30px;
     background-color: #f0094300;
     float: right;
     color: #ffffff;
 }
 .codigo_m{
-    width: 9%;
+    width: 37px;
     background-color: #f09b0900;
     float: left;
+    color: #ffffff;
+}
+ 
+.tester{
+    width: 115%;
+    background-color: #ffffff;
+    display: flex !important;
+}
+
+.aaa{
+    background-color: #242020;
+}
+.divisao{
+    color: #ffffff;
+}
+
+.gui{
+    width: 37px;
+    background-color: #f09b0900;
+    float: left;
+    color: #ffffff;
+
+}
+.iug{
+    width: 30px;
+    background-color: #f0094300;
+    float: right;
     color: #ffffff;
 }
